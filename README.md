@@ -2,6 +2,6 @@
 
 <br />
 
-I am Kunal Singh, Software Enginnering at [SafeDep, Inc.](https://safedep.io), This GitHub account is used for Public Advisory, **automated** often. 
+I am Kunal Singh, Software Enginner at [SafeDep, Inc.](https://safedep.io), This GitHub account is used for Public Advisory, **automated** often. 
 
 Contact for any issues/feedback: kunal.singh@safedep.io
